@@ -3,4 +3,5 @@
 - 🌱 I’m currently learning programming languages
 - 💞️ I’m looking to collaborate on education of poor family children
 - 📫 How to reach me alpamis1omirbekov@gmail.com
-![bus (1)](https://github.com/AOB-Creator/Joyda/assets/86979151/8d1a2495-a477-4dcb-b21e-0a6451447f00)
+https://github.com/AOB-Creator/AOB-Creator/assets/86979151/798d5149-a4a3-4852-9a5b-eb07145dd9eb
+
