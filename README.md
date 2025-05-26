@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @AOB-Creator
-- 👀 I’m interested in world economy
-- 🌱 I’m currently learning programming languages
-- 💞️ I’m looking to collaborate on education of poor family children
+👋 Hi, I'm Alpamis — a passionate full-stack developer and cybersecurity enthusiast from Uzbekistan.
+🚀 Currently building secure and efficient web solutions at Uzbek Industrial and Construction Bank (SQB Bank) using Angular and TypeScript.
+💻 Former React Developer at Bizler Group, where I helped create marketplaces and CRM systems.
+🌍 Co-founder of ADN SkyTech, launching drone light shows and innovative tech entertainment in Central Asia.
+♻️ Founder of EcoBag Innovations, building eco-friendly solutions and empowering people with disabilities.
+🧠 Passionate about problem-solving, automation, and reducing process time in banking and business.
 - 📫 How to reach me alpamis1omirbekov@gmail.com
 
 
