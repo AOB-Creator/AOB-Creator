@@ -63,9 +63,5 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
-<div style='display:flex; align-items:center;'>
-   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AOB-Creator&show_icons=true&locale=en&layout=compact" alt="alpamis" /></p>
-   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AOB-Creator&show_icons=true&locale=en" alt="alpamis" /></p> 
-</div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AOB-Creator&" alt="alpamis" /></p>
