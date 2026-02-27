@@ -9,11 +9,11 @@
 
 - 👯 I’m looking to collaborate on **All Tech Projects**
 
-- 💬 Ask me about **Python** and **NextJS**
+- 💬 Ask me about **Angular JS**, **Cisco CCNA**, **JSP**, and **Network Engineering**
 
 - 📫 How to reach me **business.alpamis@gmail.com**
 
-- ⚡ Fun fact **I think I am noob**
+- ⚡ Fun fact **I think I am good person**
   
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=AOB-Creator&label=Profile%20views&color=0e75b6&style=flat" alt="alpamis" /> </p>
 
