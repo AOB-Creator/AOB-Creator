@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Angular developer, PL SQL</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20I'm%20Ahmed%20Abd%20El-Aty%20Dabish;Network%20Engineer%20%7C%20Angular%20Developer&font=Fira%20Code&center=true&width=700&height=60&duration=3000&pause=1000&color=00C6FF&color2=0072FF&vCenter=true&size=24" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20I'm%20Alpamis%20omirbekov%20Dabish;Network%20Engineer%20%7C%20Angular%20Developer&font=Fira%20Code&center=true&width=700&height=60&duration=3000&pause=1000&color=00C6FF&color2=0072FF&vCenter=true&size=24" alt="Typing SVG" />
 </p>
 
 
