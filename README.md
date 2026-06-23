@@ -50,8 +50,6 @@
 
 <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width:100%;"/>
 
-## 🏦 What I Work On
-![Contribution Graph](https://ssr-contributions-svg.vercel.app/_/Mayur-Pagote?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native)
 ## 🌍 Connect With Me
 
 <p align="center">
@@ -91,7 +89,5 @@
 <img src="https://github.com/AOB-Creator/AOB-Creator/raw/main/line.gif" alt="divider" style="max-width:100%;"/>
 
 ## 🐍 Contribution Snake
+![Contribution Graph](https://ssr-contributions-svg.vercel.app/_/AOB-Creator?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AOB-Creator/AOB-Creator/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
