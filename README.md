@@ -1,133 +1,102 @@
 <!-- Header -->
 <h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF">Alpamis Omirbekov</span></h1>
-<h3 align="center">🚀 Angular developer, PL SQL</h3>
+<h3 align="center">⚡ Angular Developer • Oracle DB Engineer • Network Security</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20I'm%20Alpamis%20omirbekov;Network%20Engineer%20%7C%20Angular%20Developer&font=Fira%20Code&center=true&width=700&height=60&duration=3000&pause=1000&color=00C6FF&color2=0072FF&vCenter=true&size=24" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Angular+Developer+%7C+NgRx+%7C+RxJS;Oracle+19c+%7C+PL%2FSQL+Engineer;Banking+Core+Systems+Developer;Network+Security+Specialist&font=Fira+Code&center=true&width=700&height=60&duration=3000&pause=1000&color=00C6FF&vCenter=true&size=24" alt="Typing SVG" />
 </p>
 
+---
 
-  
 ## 💫 About Me
 
-- 🧑‍💻 I'm a **Software Engineer** and a **graduate of the Faculty of Computers and Information, Kafr El-Sheikh University**.  
-- ⚙️ I specialize in **Back-end Development** using **ASP.NET Core Web APIs**, following **Clean Architecture principles**.  
-- 🧠 I also have experience in **Artificial Intelligence (AI)** and love applying AI concepts to build **intelligent systems and APIs**.  
-- 🚀 I'm passionate about **learning new technologies**, improving my skills, and creating impactful software solutions.  
+- 🏦 **Middle Frontend Developer** at **SQB (O'zsanoatqurilishbank)** — building banking core ABS platforms
+- ⚙️ Specializing in **Credits, Loans, Guarantees, Cards, CRM & KYC** modules
+- 🗄️ **Oracle 19c / PL/SQL** database engineer with banking schema design experience
+- 🔐 Passionate about **Network Security** and infrastructure
+- 🎓 **Master's Student** at **Bank and Finance Academy (BFA) of Uzbekistan** — Project Management
+- 🚀 Targeting **Team Lead** and **IT Project Manager** roles in fintech & banking
+- 📍 Tashkent, Uzbekistan
 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
-  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
-</a>
+<img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width:100%;"/>
 
- 
 ## 🧠 Languages & Tools
-
 
 <p align="center">
 
-  <!-- Core Backend (.NET) -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="45" title="C#"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="45" title=".NET Core / ASP.NET Core"/>
-  <img src="https://avatars.githubusercontent.com/u/9141961?s=200&v=4" width="45" title="Entity Framework Core"/>
-
   <!-- Frontend -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" width="45" title="Angular"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="45" title="TypeScript"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="45" title="HTML5"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="45" title="CSS3"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="45" title="TypeScript"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="45" title="React"/>
 
-  <!-- Databases -->
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45" title="SQL Server"/>
+  <!-- State Management -->
+  <img src="https://ngrx.io/assets/images/badge.svg" width="45" title="NgRx"/>
+
+  <!-- Database -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" width="45" title="Oracle 19c"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45" title="Firebase"/>
+
+  <!-- Backend -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="45" title="Java"/>
 
   <!-- Tools -->
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" title="Git"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="45" title="Linux"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="45" title="Docker"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="45" title="Postman"/>
-  <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" width="45" title="Swagger"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="45" title="VS Code"/>
-  <img src="https://visualstudio.microsoft.com/wp-content/uploads/2022/11/vs-icon.svg" width="45" title="Visual Studio"/>
-
-  <!-- DevOps / Architecture -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="45" title="Linux"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="45" title="Azure"/>
-
-  <!-- AI / Data -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="45" title="AI / OpenAI"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" title="Scikit-Learn"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="45" title="NumPy"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="45" title="Pandas"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" width="45" title="WebStorm"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" width="45" title="IntelliJ IDEA"/>
 
 </p>
+
+<img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width:100%;"/>
+
+## 🏦 What I Work On
+
+<img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width:100%;"/>
 
 ## 🌍 Connect With Me
 
 <p align="center">
   <table align="center">
     <tr>
-       <td align="center" width="80">
-        <a href="https://www.linkedin.com/in/ahmed-dabish-14b758230/" target="_blank">
+      <td align="center" width="80">
+        <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
           <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/linkedin.svg" width="48" height="48" alt="LinkedIn"/>
         </a>
       </td>
-        <td align="center" width="80">
-        <a href="mailto:ahmeddabish99@gmail.com" target="_blank">
+      <td align="center" width="80">
+        <a href="mailto:YOUR_EMAIL" target="_blank">
           <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/gmail.svg" width="48" height="48" alt="Gmail"/>
         </a>
       </td>
       <td align="center" width="80">
-        <a href="https://wa.me/201001415548" target="_blank">
-          <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/whatsapp.svg" width="48" height="48" alt="WhatsApp"/>
-        </a>
-      </td>
-      <td align="center" width="80">
-        <a href="https://t.me/@AhmedDabish" target="_blank">
+        <a href="https://t.me/YOUR_TELEGRAM" target="_blank">
           <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/telegram.svg" width="48" height="48" alt="Telegram"/>
         </a>
-      </td>    
-      <td align="center" width="80">
-        <a href="https://www.facebook.com/ahmed.dabish.96" target="_blank">
-          <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/facebook.svg" width="48" height="48" alt="Facebook"/>
-        </a>
       </td>
-      <td align="center" width="80">
-        <a href="https://messenger.com/t/ahmed.dabish.96" target="_blank">
-          <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/messenger.svg" width="48" height="48" alt="Messenger"/>
-        </a>
-      </td>    
     </tr>
   </table>
 </p>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
-  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
-</a>
+
+<img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width:100%;"/>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedDabish&theme=tokyonight&hide_border=true" alt="Ahmed's Streak Stats" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=AOB-Creator&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedDabish&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AOB-Creator&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/AOB-Creator/AOB-Creator/blob/main/line.gif">
-  <img src="https://github.com/AOB-Creator/AOB-Creator/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
-</a>
-
-</p>
+<img src="https://github.com/AOB-Creator/AOB-Creator/raw/main/line.gif" alt="divider" style="max-width:100%;"/>
 
 ## 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AhmedDabish/AhmedDabish/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/AOB-Creator/AOB-Creator/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
-
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
-  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
-</a>
-
-
