@@ -31,9 +31,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="45" title="HTML5"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="45" title="CSS3"/>
 
-  <!-- State Management -->
-  <img src="https://ngrx.io/assets/images/badge.svg" width="45" title="NgRx"/>
-
   <!-- Database -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" width="45" title="Oracle 19c"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
