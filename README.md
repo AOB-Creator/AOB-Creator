@@ -1,14 +1,24 @@
-<div align="center">
+```bash
+$ whoami
+Alpamis Omirbekov // Middle Angular Developer
 
-<img src="assets/header.svg" width="100%" alt="Moamen Basel - Security Engineer" />
+$ ls ~/expertise
+angular  typescript  rxjs  oracle  pl/sql  network-security
 
-<br/>
+$ cat ~/.stack
+frontend : Angular · TypeScript · RxJS · NgRx · PrimeNG
+database : Oracle 19c · PL/SQL · MySQL
+tools    : Docker · Git · WebStorm · Linux
 
-[![X](https://img.shields.io/badge/@momenbassel-111?style=flat-square&logo=x&logoColor=fff)](https://twitter.com/momenbassel)
-&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/github/followers/momenbasel?style=flat-square&logo=github&label=Followers&color=111&logoColor=fff)](https://github.com/momenbasel)
+$ cat ~/.status
+Building enterprise banking systems at SQB.
+Turning complex financial logic into clean Angular code.
 
-</div>
+$ cat ~/.location
+Tashkent, Uzbekistan 🇺🇿
+
+$
+```
 
 <!-- Header -->
 <h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF">Alpamis Omirbekov</span></h1>
