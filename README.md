@@ -50,32 +50,6 @@
 
 <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width:100%;"/>
 
-## 🌍 Connect With Me
-
-<p align="center">
-  <table align="center">
-    <tr>
-      <td align="center" width="80">
-        <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-          <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/linkedin.svg" width="48" height="48" alt="LinkedIn"/>
-        </a>
-      </td>
-      <td align="center" width="80">
-        <a href="mailto:YOUR_EMAIL" target="_blank">
-          <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/gmail.svg" width="48" height="48" alt="Gmail"/>
-        </a>
-      </td>
-      <td align="center" width="80">
-        <a href="https://t.me/YOUR_TELEGRAM" target="_blank">
-          <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/telegram.svg" width="48" height="48" alt="Telegram"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</p>
-
-<img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width:100%;"/>
-
 ## 📊 GitHub Stats
 
 <p align="center">
