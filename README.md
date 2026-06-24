@@ -1,3 +1,28 @@
+```bash
+$ whoami
+Alpamis Omirbekov // Middle Angular Developer
+
+$ ls ~/expertise
+angular typescript javascript oracle plsql banking security
+
+$ ls ~/stack
+frontend: Angular - TypeScript - RxJS - NgRx - PrimeNG
+backend:  Oracle 19c - PL/SQL - Node.js
+tools:    Docker - Git - WebStorm - Linux
+
+$ cat ~/.status
+Building enterprise banking systems at SQB.
+Turning complex financial logic into clean Angular code.
+
+$ cat ~/.location
+Tashkent, Uzbekistan 🇺🇿
+
+$
+```
+
+
+
+<img width="1840" height="846" alt="image" src="https://github.com/user-attachments/assets/2a30648b-7eba-4f5b-9bba-ac824e7bf677" />
 <!-- Header -->
 <h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF">Alpamis Omirbekov</span></h1>
 <h3 align="center">⚡ Angular Developer • Oracle DB Engineer • Network Security</h3>
