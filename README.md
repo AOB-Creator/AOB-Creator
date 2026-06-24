@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/header.svg" width="80%" alt="Omirbekov Alpamis" />
+<img src="assets/header.svg" width="70%" alt="Omirbekov Alpamis" />
 </div>
 
 ## 💫 About Me
@@ -44,7 +44,6 @@
 
 <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width:100%;"/>
 
-<img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width:100%;"/>
 
 ## 📊 GitHub Stats
 
