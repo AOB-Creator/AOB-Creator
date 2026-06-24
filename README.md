@@ -1,34 +1,6 @@
-```bash
-$ whoami
-Alpamis Omirbekov // Middle Angular Developer
-
-$ ls ~/expertise
-angular  typescript  rxjs  oracle  pl/sql  network-security
-
-$ cat ~/.stack
-frontend : Angular · TypeScript · RxJS · NgRx · PrimeNG
-database : Oracle 19c · PL/SQL · MySQL
-tools    : Docker · Git · WebStorm · Linux
-
-$ cat ~/.status
-Building enterprise banking systems at SQB.
-Turning complex financial logic into clean Angular code.
-
-$ cat ~/.location
-Tashkent, Uzbekistan 🇺🇿
-
-$
-```
-
-<!-- Header -->
-<h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF">Alpamis Omirbekov</span></h1>
-<h3 align="center">⚡ Angular Developer • Oracle DB Engineer • Network Security</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Angular+Developer+%7C+NgRx+%7C+RxJS;Oracle+19c+%7C+PL%2FSQL+Engineer;Banking+Core+Systems+Developer;Network+Security+Specialist&font=Fira+Code&center=true&width=700&height=60&duration=3000&pause=1000&color=00C6FF&vCenter=true&size=24" alt="Typing SVG" />
-</p>
-
----
+<div align="center">
+<img src="assets/header.svg" width="100%" alt="Moamen Basel - Security Engineer" />
+</div>
 
 ## 💫 About Me
 
@@ -72,6 +44,32 @@ $
 
 <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width:100%;"/>
 
+## 🌍 Connect With Me
+
+<p align="center">
+  <table align="center">
+    <tr>
+      <td align="center" width="80">
+        <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+          <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/linkedin.svg" width="48" height="48" alt="LinkedIn"/>
+        </a>
+      </td>
+      <td align="center" width="80">
+        <a href="mailto:YOUR_EMAIL" target="_blank">
+          <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/gmail.svg" width="48" height="48" alt="Gmail"/>
+        </a>
+      </td>
+      <td align="center" width="80">
+        <a href="https://t.me/YOUR_TELEGRAM" target="_blank">
+          <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/telegram.svg" width="48" height="48" alt="Telegram"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
+
+<img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width:100%;"/>
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -84,6 +82,5 @@ $
 
 <img src="https://github.com/AOB-Creator/AOB-Creator/raw/main/line.gif" alt="divider" style="max-width:100%;"/>
 
-## 🐍 Contribution
-![Contribution Graph](https://ssr-contributions-svg.vercel.app/_/AOB-Creator?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native)
+
 
