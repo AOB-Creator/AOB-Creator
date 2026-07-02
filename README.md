@@ -33,8 +33,13 @@
 
   <!-- Tools -->
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" title="Git"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="45" title="Linux"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kalilinux/kalilinux-plain-wordmark.svg" width="45" title="Linux"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="45" title="Postman"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/insomnia/insomnia-original.svg" width="45" title="Insomnia"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" title="nodejs-original-wordmark.svg"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original.svg" width="45" title="npm-original.svg"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" width="45" title="gitlab-original.svg"/>
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" width="45" title="WebStorm"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" width="45" title="IntelliJ IDEA"/>
 
