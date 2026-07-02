@@ -27,7 +27,6 @@
 
   <!-- Database -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" width="45" title="Oracle 19c"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
 
   <!-- Backend -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="45" title="Java"/>
@@ -35,7 +34,6 @@
   <!-- Tools -->
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" title="Git"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="45" title="Linux"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="45" title="Docker"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="45" title="Postman"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" width="45" title="WebStorm"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" width="45" title="IntelliJ IDEA"/>
