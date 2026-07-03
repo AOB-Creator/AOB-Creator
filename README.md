@@ -56,5 +56,11 @@
 
 <img src="https://github.com/AOB-Creator/AOB-Creator/raw/main/line.gif" alt="divider" style="max-width:100%;"/>
 
+## 🏆 LeetCode Stats
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/OmirbekovAlpamis?theme=dark&font=Karma)
+
+## 🔥 LeetCode Heatmap
+
+![LeetCode Heatmap](https://leetcard.jacoblin.cool/OmirbekovAlpamis?theme=dark&font=Karma&ext=heatmap)
 
