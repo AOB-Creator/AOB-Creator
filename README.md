@@ -59,10 +59,7 @@
 ## 🏆 LeetCode
 
 <p align="center">
-
-<img width="48%" src="https://leetcard.jacoblin.cool/OmirbekovAlpamis?theme=dark&font=Karma"/>
-
-<img width="48%" src="https://leetcard.jacoblin.cool/OmirbekovAlpamis?theme=dark&font=Karma&ext=heatmap"/>
+<img width="40%" src="https://leetcard.jacoblin.cool/OmirbekovAlpamis?theme=dark&font=Karma&ext=heatmap"/>
 
 </p>
 
